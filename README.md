@@ -1,3 +1,4 @@
 # Religiosity-and-Anti-Abortion-Sentiments-in-Poland
 
-## Applied Logistic Regression course
+## GRAD-E1201: Applied Logistic Regression Analysis 
+
