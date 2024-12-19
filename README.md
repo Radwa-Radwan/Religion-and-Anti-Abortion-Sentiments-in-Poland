@@ -1,6 +1,5 @@
-# Dynamic Topic Modeling of CNN News Articles
+# Religion and Anti-Abortion Sentiments in Poland
 
-## GRAD-E1282:  Natural Language Processing 
+## Applied Logistic Regression Course
 
 
-### Application of two dynamic topic models Gensim SeqLDA and BERTopic on CNN news articles published between November 2021 and March 2022.
